@@ -1,0 +1,4 @@
+ASML 100 s#
+CAC40 120 s#
+CAC40 180 b#
+ASML 110 b#
